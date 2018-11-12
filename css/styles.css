@@ -36,10 +36,13 @@ body{
     display: flex;
     flex: 1;
     background-color: #d81834;
+    height: 30rem;
+    align-items: center;
+    justify-content: center;
     }
 #container .boxs{
-    width: 60%;
-    margin: auto;
+    width: 70%;
+    
     }
 #container .iconboxs{
     display: flex;
